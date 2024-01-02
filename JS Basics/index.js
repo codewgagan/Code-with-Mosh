@@ -17,7 +17,7 @@ let oldName; //undefined
 let selectedCourse = null //null
 
 // JS is a Dynamic Language
-// undefined is a tyoe and also value
+// undefined is a type and also value
 // null is a object
 
 // Reference Types
